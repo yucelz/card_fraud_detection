@@ -1,4 +1,4 @@
-# card_fraud_detection Event classification for payment card fraud detection
+# Event classification for payment card fraud detection
 
 ## Introduction
 Payment fraud detection is critical for banks, businesses, and consumers. In Europe alone, fraudulent transactions were estimated at €1.89 billion in 2019. Worldwide, approximately 3.6% of commerce revenue is lost to fraud. In this notebook, we train and evaluate a model to detect fraudulent transactions using the synthetic dataset attached to the book Reproducible Machine Learning for Credit Card Fraud Detection by Le Borgne et al.
